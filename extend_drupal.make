@@ -106,6 +106,9 @@ projects[google_analytics][version] = 1.3
 projects[legal][subdir] = contrib
 projects[legal][version] = 1.2
 
+projects[libraries][subdir] = contrib
+projects[libraries][version] = 2.0
+
 projects[link][subdir] = contrib
 projects[link][version] = 1.0
 
@@ -181,6 +184,9 @@ projects[views_data_export][version] = 3.0-beta6
 
 projects[votingapi][subdir] = contrib
 projects[votingapi][version] = 2.10
+
+projects[webform][subdir] = contrib
+projects[webform][version] = 3.18
 
 ; Themes
 ; bamboo
