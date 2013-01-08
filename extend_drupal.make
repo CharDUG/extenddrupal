@@ -36,6 +36,9 @@ projects[ctools][version] = 1.2
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
 
+projects[devel][subdir] = contrib
+projects[devel][version] = 1.3
+
 projects[editablefields][subdir] = contrib
 projects[editablefields][version] = 1.0-alpha2
 
