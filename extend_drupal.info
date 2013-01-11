@@ -49,7 +49,6 @@ dependencies[] = googleanalytics
 dependencies[] = views
 dependencies[] = views_ui
 ; Webform
-dependencies[] = webform
 
 ; ----------
 ; Variables
